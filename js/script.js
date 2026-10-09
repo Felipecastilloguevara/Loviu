@@ -1,4 +1,4 @@
- // Create hearts effect
+ // Crear el efecto de corazones
  function createHearts() {
     const hearts = document.querySelector('.hearts');
     const heart = document.createElement('div');
@@ -12,7 +12,7 @@
 
 setInterval(createHearts, 300);
 
-// Move "No" button function
+// Función para mover el botón «No»
 function moveButton(button) {
     const x = Math.random() * (window.innerWidth - button.offsetWidth);
     const y = Math.random() * (window.innerHeight - button.offsetHeight);
@@ -22,7 +22,7 @@ function moveButton(button) {
     button.style.top = `${y}px`;
 }
 
-// Navigation functions
+// Funciones de navegación
 function goToStep2() {
     document.getElementById('step1').classList.remove('active');
     document.getElementById('step2').classList.add('active');
@@ -38,10 +38,9 @@ function goToStep3() {
 function finalStep() {
     document.getElementById('step3').classList.remove('active');
     document.querySelector('.final-message').style.display = 'block';
-    document.querySelector('.whatsapp-btn').style.display = 'inline-block';
     triggerConfetti();
     
-    // Additional confetti for the final celebration
+    // Confeti adicional para la celebración final
     setTimeout(() => triggerConfetti(), 500);
     setTimeout(() => triggerConfetti(), 1000);
     setTimeout(() => triggerConfetti(), 1500);

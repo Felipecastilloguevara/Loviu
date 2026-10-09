@@ -1,40 +1,40 @@
-# 💖 Be My Valentine? - Interactive Proposal Website
+# 💖 ¿Quieres ser mi San Valentín? - Sitio interactivo
 
-A charming and interactive Valentine's Day proposal website featuring animated bears, playful interactions, and romantic surprises! 🌹
+Un sitio web encantador e interactivo para una propuesta de San Valentín, con ositos animados, interacciones divertidas y sorpresas románticas. 🌹
 
-![Website Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW14ODNpM2J5cW4zZ3N6bXk3OGY5d2V6bG5qZ2V2Z2V6N2J6cWJ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJni5vAyFLK/giphy.gif)
+![Vista previa del sitio](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW14ODNpM2J5cW4zZ3N6bXk3OGY5d2V6bG5qZ2V2Z2V6N2J6cWJ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJni5vAyFLK/giphy.gif)
 
-## ✨ Features
+## ✨ Características
 
-- **3-Step Romantic Journey**  
-  Progressive reveal of cute bear animations and loving messages 🐻❣️
+- **Recorrido romántico en 3 pasos**  
+  Revela progresivamente animaciones de ositos y mensajes cariñosos 🐻❣️
 
-- **Playful Interactions**  
-  - Escape-moving "No" button 😜
-  - Confetti explosions on positive answers 🎉
-  - Smooth transitions between steps ✨
+- **Interacciones divertidas**  
+  - El botón «No» se escapa 😜
+  - Lluvia de confeti al responder que sí 🎉
+  - Transiciones suaves entre los pasos ✨
 
-- **Mobile-First Design**  
-  Responsive layout that works on all devices 📱💻
+- **Diseño adaptable a móviles**  
+  Diseño adaptable que funciona en cualquier dispositivo 📱💻
 
-- **Final Surprise**  
-  Direct WhatsApp integration with pre-filled message 💌
+- **Mensaje final romántico**  
+  Una celebración especial al terminar el recorrido 🥰
 
-- **Atmospheric Effects**  
-  - Floating hearts background ❤️🧡💛
-  - Animated bear GIFs 🐾
-  - Romantic color scheme 🌸
+- **Efectos románticos**  
+  - Fondo con corazones flotantes ❤️🧡💛
+  - GIFs de ositos animados 🐾
+  - Paleta de colores romántica 🌸
 
-## 🚀 Quick Start
+## 🚀 Inicio rápido
 
-1. Clone repository:
+1. Clona el repositorio:
    ```bash
    git clone https://github.com/yourusername/my-valentines.git
 
    cd my-valentines && open index.html
 
-## Made by stevencodelab with ❤️
+## Creado por stevencodelab con ❤️
 
-## Donate
+## Donaciones
 
 https://saweria.co/stevenmorison

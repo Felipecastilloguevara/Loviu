@@ -119,24 +119,6 @@ h1 {
     transition: all 0.3s ease;
 }
 
-.whatsapp-btn {
-    display: none;
-    padding: 15px 40px;
-    background: #25D366;
-    color: white;
-    text-decoration: none;
-    border-radius: 25px;
-    margin-top: 20px;
-    box-shadow: 0 4px 15px rgba(37, 211, 102, 0.4);
-    transition: transform 0.3s;
-    width: fit-content;
-}
-
-.whatsapp-btn:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(37, 211, 102, 0.6);
-}
-
 .final-message {
     display: none;
     color: #ff4d6d;
@@ -152,7 +134,7 @@ h1 {
     to { opacity: 1; }
 }
 
-/* Media Queries */
+/* Consultas de medios */
 @media screen and (max-width: 768px) {
     body {
         padding: 15px;
@@ -200,10 +182,7 @@ h1 {
         font-size: 1.2em;
     }
 
-    .whatsapp-btn {
-        padding: 12px 30px;
-        font-size: 1em;
-    }
+
 }
 
 @media screen and (max-height: 600px) {
